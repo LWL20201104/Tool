@@ -2,7 +2,7 @@
 
 ```c++
 /*
-* Script ool
+* Script tool
 */
 ```
 
