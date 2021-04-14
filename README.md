@@ -2,7 +2,7 @@
 
 ```c++
 /*
-* Script tool
+* Coding tool
 */
 ```
 
